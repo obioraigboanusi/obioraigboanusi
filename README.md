@@ -1,9 +1,9 @@
 # Hi there, my name is Obiora - your favourite software developer👋
 
-## I having fun oding and teaching!!
+## I having fun coding and teaching!!
 
-- 🔭 I am working on a Real Estate E-commerce site
-- 🌱 I am currently learning everything NodeJs and ExpressJs
+- 🔭 I am working on a Real Estate E-commerce site with React, Node/Express and MongoDB
+- 🌱 I am currently learning advanced concepts in NodeJs and ExpressJs
 - 👯 I am looking to collaborate with other tech-savvy on any E-commerce MERN stack project and try new things too
 - 🥅 2022 Goals: Contribute more to Open Source projects and grow my potfolio
 
