@@ -29,6 +29,14 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
 <br />
+
+### See how I rank on GitHub
+
+![Obiora's GitHub stats](https://github-readme-stats.vercel.app/api?username=obioraigboanusi&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obioraigboanusi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
 <br />
 
 [website]: http://github.com/obioraigboanusi
