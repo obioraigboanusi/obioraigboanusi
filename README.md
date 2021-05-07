@@ -1,6 +1,6 @@
 # Hi there, my name is Obiora - your favourite software developer👋
 
-## I having fun coding and teaching!!
+## I have fun coding and teaching!!
 
 - 🔭 I am working on a Real Estate E-commerce site with React, Node/Express and MongoDB
 - 🌱 I am currently learning advanced concepts in NodeJs and ExpressJs
