@@ -39,7 +39,7 @@
 <br />
 <br />
 
-[website]: http://github.com/obioraigboanusi
+[website]: http://obioraigboanusi.netlify.app
 [twitter]: https://twitter.com/igboanusiobiora
 [linkedin]: https://linkedin.com/in/c-obiora-igboanusi
 
