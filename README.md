@@ -1,4 +1,4 @@
-# Hi there, my name is Obiora - your favourite software developer👋
+# Hi there, my name is Obiora - your favourite Front-End Web developer👋
 
 ## I have fun coding and teaching!!
 
