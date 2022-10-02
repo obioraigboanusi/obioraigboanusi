@@ -28,11 +28,10 @@
 
 <br />
 
-### See how I rank on GitHub
-
-![Obiora's GitHub stats](https://github-readme-stats.vercel.app/api?username=obioraigboanusi&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obioraigboanusi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=obioraigboanusi&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/obioraigboanusi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obioraigboanusi&exclude_repo=obioraigboanusi.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/obioraigboanusi)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obioraigboanusi&" alt="obioraigboanusi" /></p> 
 
 <br />
 <br />
