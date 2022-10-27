@@ -21,4 +21,4 @@
 <br />
 <br />
 
-[linkedin]: https://linkedin.com/in/c-obiora-igboanusi
+[linkedin]: https://linkedin.com/in/obioraigboanusi
